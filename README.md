@@ -1,3 +1,1 @@
-
-## I'm just coding for fun at this point.
-
+# Just coding for fun.
